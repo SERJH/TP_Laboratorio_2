@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\TP\Entidades.TP1\obj\Debug\Entidades.TP1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\TP\Entidades.TP1\bin\Debug\Entidades.TP1.dll
+C:\Users\alumno\Desktop\TP\Entidades.TP1\bin\Debug\Entidades.TP1.pdb
+C:\Users\alumno\Desktop\TP\Entidades.TP1\obj\Debug\Entidades.TP1.dll
+C:\Users\alumno\Desktop\TP\Entidades.TP1\obj\Debug\Entidades.TP1.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP", "TP\TP.csproj", "{20BB6860-CD63-48F1-A978-3C8727A10480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades.TP1", "Entidades.TP1\Entidades.TP1.csproj", "{A3776DCD-9433-470A-BC08-7FAAAB39BF3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20BB6860-CD63-48F1-A978-3C8727A10480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BB6860-CD63-48F1-A978-3C8727A10480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BB6860-CD63-48F1-A978-3C8727A10480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BB6860-CD63-48F1-A978-3C8727A10480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3776DCD-9433-470A-BC08-7FAAAB39BF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3776DCD-9433-470A-BC08-7FAAAB39BF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3776DCD-9433-470A-BC08-7FAAAB39BF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3776DCD-9433-470A-BC08-7FAAAB39BF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
