@@ -1,0 +1,12 @@
+c:\users\serjh\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Santiago.Moran.2A.TP3\Entidades\bin\Debug\Entidades.dll
+c:\users\serjh\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Santiago.Moran.2A.TP3\Entidades\bin\Debug\Entidades.pdb
+c:\users\serjh\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Santiago.Moran.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+c:\users\serjh\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Santiago.Moran.2A.TP3\Entidades\obj\Debug\Entidades.dll
+c:\users\serjh\Desktop\Programacion\UTN\Tecnicatura en Programacion\Programacion 2 - Lab 2\Ejercicios\Santiago.Moran.2A.TP3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Entidades\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Entidades\bin\Debug\Excepciones.pdb
