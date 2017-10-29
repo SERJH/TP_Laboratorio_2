@@ -1,0 +1,14 @@
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Test.exe.config
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Test.exe
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Test.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Archivos.dll
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Clases Instanciables.dll
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Entidades.dll
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Excepciones.dll
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Archivos.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Clases Instanciables.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Entidades.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\bin\Debug\Excepciones.pdb
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\obj\Debug\Test.exe
+C:\Users\SERJH\Desktop\Santiago.Moran.2A.TP3\Test\obj\Debug\Test.pdb
