@@ -1,0 +1,3 @@
+En la entrega anterior al subir a github la carpeta del tp3 no aparecían por ningun lado los test unitarios y me desaprobaron por eso sin corregir lo demas, si vuelve a pasar dejo en la carpeta tambien un rar por las dudas, asi que si por alguna razón no aparecen los test unitarios prueben con el rar.
+
+Saludos
